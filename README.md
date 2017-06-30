@@ -16,3 +16,8 @@ Here are the lectures of the course for this section...
 + Animation is an illusion of motion
 + Images are our Frames
 + The images are shown to us at a regular iterval, called frames per second.
+
+### 3_AS_GMP Setting Up Gimp For Animation
++ Layer Order
++ Previewing the animation
++ Exporting as a GIF
