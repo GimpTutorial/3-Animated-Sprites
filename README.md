@@ -21,3 +21,8 @@ Here are the lectures of the course for this section...
 + Layer Order
 + Previewing the animation
 + Exporting as a GIF
+
+### 4_AS_GMP Deciding On Frame Rate
++ Direct impact on output
++ Yes can be changed later and in game
++ Higher FPS means inserting frames, lowers means cutting them to keep the same animation.
