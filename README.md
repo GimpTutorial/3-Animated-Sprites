@@ -37,3 +37,7 @@ Here are the lectures of the course for this section...
 
 Note, the order matters as do the brackets and spacing
 Recommended Example:  LayerName (100ms)(replace)
+
+### 6_AS_GMP Layer Boundaries
+
++ Controlling and optimising layer boundaries
