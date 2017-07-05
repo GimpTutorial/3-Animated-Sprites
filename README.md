@@ -26,3 +26,14 @@ Here are the lectures of the course for this section...
 + Direct impact on output
 + Yes can be changed later and in game
 + Higher FPS means inserting frames, lowers means cutting them to keep the same animation.
+
+
+### 5_AS_GMP Layer Animation Parameters
+#### Different Layer Options
+
++ (ms) eg (100ms) : Time that the frame will be showed for.
++ (combine) : Mixes the current frame with the one before it- useful with alpha layers
++ (replace) Replaces the previous frame regardless of any layers having an alpha layer
+
+Note, the order matters as do the brackets and spacing
+Recommended Example:  LayerName (100ms)(replace)
