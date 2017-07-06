@@ -46,3 +46,7 @@ Recommended Example:  LayerName (100ms)(replace)
 + We won’t cover them all in this section.
 + Recommended book: Disney Animation: The Illusion of Life
 + Start with squash and stretch and apply that to an animation.
+
+### 8_AS_GMP Making a Bouncing Ball
++ Create a 2 second animation, at 10fps.
++ Ball falling off a ledge and hitting the ground
