@@ -41,3 +41,8 @@ Recommended Example:  LayerName (100ms)(replace)
 ### 6_AS_GMP Layer Boundaries
 
 + Controlling and optimising layer boundaries
+
+### 7_AS_GMP Squash And Stretch
++ We won’t cover them all in this section.
++ Recommended book: Disney Animation: The Illusion of Life
++ Start with squash and stretch and apply that to an animation.
