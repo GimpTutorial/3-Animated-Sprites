@@ -51,4 +51,20 @@ Recommended Example:  LayerName (100ms)(replace)
 + Create a 2 second animation, at 10fps.
 + Ball falling off a ledge and hitting the ground
 
-## 9_AS_GMP Multi Layer Images And Animation
+### 9_AS_GMP Multi Layer Images And Animation
++ You can have a layered animation by using Layer Groups
++ Layer Groups respect previous layer visibilities
+
+### 10_AS_GMP Straight Ahead And Pose To Pose
++ Neighter of these techiques are exclusive, mixing them is fine.
++ Picking the appropirate one can be a huge time saver
+
+#### Straight Ahead
++ Very goof for unpredicable animation like flames water and smoke
++ Works becuase it requires the previous frame for the current one
+
+#### Pose To Pose
++ Gives the most control
++ Get a good idea of the whole scene early on, catching any issues
++ Helps keep consistency throughout an animation
++ Your character or ojbect ends up in the right place
