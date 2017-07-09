@@ -68,3 +68,5 @@ Recommended Example:  LayerName (100ms)(replace)
 + Get a good idea of the whole scene early on, catching any issues
 + Helps keep consistency throughout an animation
 + Your character or ojbect ends up in the right place
+
+### 11_AS_GMP GIFs And Layer Groups
