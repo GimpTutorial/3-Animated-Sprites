@@ -50,3 +50,5 @@ Recommended Example:  LayerName (100ms)(replace)
 ### 8_AS_GMP Making a Bouncing Ball
 + Create a 2 second animation, at 10fps.
 + Ball falling off a ledge and hitting the ground
+
+## 9_AS_GMP Multi Layer Images And Animation
