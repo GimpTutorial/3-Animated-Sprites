@@ -70,3 +70,9 @@ Recommended Example:  LayerName (100ms)(replace)
 + Your character or ojbect ends up in the right place
 
 ### 11_AS_GMP GIFs And Layer Groups
++ How to organise layergroups so that your animations can be layered
++ Workflow ideas to speed up multi-layer animations
+
+### 12_AS_GMP Slow In And Out
++ How to make animation seem less robotic and more natual
++ Techniques for creating more convincing movement
