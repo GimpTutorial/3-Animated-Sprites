@@ -76,3 +76,6 @@ Recommended Example:  LayerName (100ms)(replace)
 ### 12_AS_GMP Slow In And Out
 + How to make animation seem less robotic and more natual
 + Techniques for creating more convincing movement
+
+### 13_AS_GMP Two Different Feeling Animations
++ Steady vs Fast
