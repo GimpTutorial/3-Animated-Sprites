@@ -56,26 +56,32 @@ Recommended Example:  LayerName (100ms)(replace)
 + Layer Groups respect previous layer visibilities
 
 ### 10_AS_GMP Straight Ahead And Pose To Pose
-+ Neighter of these techiques are exclusive, mixing them is fine.
-+ Picking the appropirate one can be a huge time saver
++ Neither of these techniques are exclusive, mixing them is fine.
++ Picking the appropriate one can be a huge time saver
 
 #### Straight Ahead
-+ Very goof for unpredicable animation like flames water and smoke
-+ Works becuase it requires the previous frame for the current one
++ Very goof for unpredictable animation like flames water and smoke
++ Works because it requires the previous frame for the current one
 
 #### Pose To Pose
 + Gives the most control
 + Get a good idea of the whole scene early on, catching any issues
 + Helps keep consistency throughout an animation
-+ Your character or ojbect ends up in the right place
++ Your character or object ends up in the right place
 
 ### 11_AS_GMP GIFs And Layer Groups
 + How to organise layergroups so that your animations can be layered
 + Workflow ideas to speed up multi-layer animations
 
 ### 12_AS_GMP Slow In And Out
-+ How to make animation seem less robotic and more natual
++ How to make animation seem less robotic and more natural
 + Techniques for creating more convincing movement
 
 ### 13_AS_GMP Two Different Feeling Animations
 + Steady vs Fast
+
+### 14_AS_GMP Colour Change Over Time
++ Smudge Tool
++ Workflow thoughts
++ Using Opacity
++ Preventing out of memory errors
