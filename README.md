@@ -1,4 +1,4 @@
-# The Complete 2D Game Artist
+﻿# The Complete 2D Game Artist
 Our upcoming Udemy course will teach you all you need to know to create all 2D art assets for video games, from sprites and textures to backgrounds and marketing images.
 
 You're welcome to download, fork or do whatever else legal with all the files!
@@ -85,3 +85,31 @@ Recommended Example:  LayerName (100ms)(replace)
 + Workflow thoughts
 + Using Opacity
 + Preventing out of memory errors
+
+### 15_AS_GMP Making An Animated Sunset
++ Creating An Animated Sunset
+
+### 16_AS_GMP What Is A Sprite Sheet
+What Is A Sprite?
+
+Sprite: an image that’s integrated into a larger scene
+Sprite sheet: many of sprites combined in one image
+Typically associated with 2D animations and GUI elements.
+A “texture atlas” is essentially the same thing but has a different use
+What Is Power Of Two?
+
+Talking specifically about the pixel x pixel size
+In brief 2^n, where n is a positive integer
+Typical ranges in graphics are from 2^0 or 1px to 2^12 which is 4096px
+The X and Y dimensions can be different
+Usually not necessary, but recommended to prevent uncontrolled blurring or border issues
+Not Power Of Two is referred to as NPOT
+Packing Sprites
+Go for ease of use and organisation rather than all optimisation.
+How is your sprite sheet is going to be read?
+Know your target platform’s maximum texture size
+Recommend no larger than 2048 x 2048 in general
+Avoid mixing different sprite sizes
+
+Aligning Your Work
+
