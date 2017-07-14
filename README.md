@@ -114,3 +114,7 @@ Recommended Example:  LayerName (100ms)(replace)
 + Be aware that NPOT sprites can bleed into one another and have border issues
 + Consider packing sprites into POT cells or with extra padding
 + For sanity recommend sticking with POT sprites and sprite sheets, then everything fits in properly!
+
+### 17_AS_GMP Creating A Basic Sprite Sheet
++ Make your first sprite sheet
++ Share it with us!
