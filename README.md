@@ -9,26 +9,26 @@ You can download the latest state of this section, or go to **Commits** then dow
 ## Section 3 - Animated Sprites - Lecture List AS_GMP
 Here are the lectures of the course for this section...
 
-### 1_AS_GMP Bonus Section Introduction
+### 1 Bonus Section Introduction
 + Michael Introduces what it coming up in Section 3
 
-### 2_AS_GMP What is Animation
+### 2 What is Animation
 + Animation is an illusion of motion
 + Images are our Frames
 + The images are shown to us at a regular iterval, called frames per second.
 
-### 3_AS_GMP Setting Up Gimp For Animation
+### 3 Setting Up Gimp For Animation
 + Layer Order
 + Previewing the animation
 + Exporting as a GIF
 
-### 4_AS_GMP Deciding On Frame Rate
+### 4 Deciding On Frame Rate
 + Direct impact on output
 + Yes can be changed later and in game
 + Higher FPS means inserting frames, lowers means cutting them to keep the same animation.
 
 
-### 5_AS_GMP Layer Animation Parameters
+### 5 Layer Animation Parameters
 #### Different Layer Options
 
 + (ms) eg (100ms) : Time that the frame will be showed for.
@@ -38,24 +38,24 @@ Here are the lectures of the course for this section...
 Note, the order matters as do the brackets and spacing
 Recommended Example:  LayerName (100ms)(replace)
 
-### 6_AS_GMP Layer Boundaries
+### 6 Layer Boundaries
 
 + Controlling and optimising layer boundaries
 
-### 7_AS_GMP Squash And Stretch
+### 7 Squash And Stretch
 + We won’t cover them all in this section.
 + Recommended book: Disney Animation: The Illusion of Life
 + Start with squash and stretch and apply that to an animation.
 
-### 8_AS_GMP Making a Bouncing Ball
+### 8 Making a Bouncing Ball
 + Create a 2 second animation, at 10fps.
 + Ball falling off a ledge and hitting the ground
 
-### 9_AS_GMP Multi Layer Images And Animation
+### 9 Multi Layer Images And Animation
 + You can have a layered animation by using Layer Groups
 + Layer Groups respect previous layer visibilities
 
-### 10_AS_GMP Straight Ahead And Pose To Pose
+### 10 Straight Ahead And Pose To Pose
 + Neither of these techniques are exclusive, mixing them is fine.
 + Picking the appropriate one can be a huge time saver
 
@@ -69,27 +69,27 @@ Recommended Example:  LayerName (100ms)(replace)
 + Helps keep consistency throughout an animation
 + Your character or object ends up in the right place
 
-### 11_AS_GMP GIFs And Layer Groups
+### 11 GIFs And Layer Groups
 + How to organise layergroups so that your animations can be layered
 + Workflow ideas to speed up multi-layer animations
 
-### 12_AS_GMP Slow In And Out
+### 12 Slow In And Out
 + How to make animation seem less robotic and more natural
 + Techniques for creating more convincing movement
 
-### 13_AS_GMP Two Different Feeling Animations
+### 13 Two Different Feeling Animations
 + Steady vs Fast
 
-### 14_AS_GMP Colour Change Over Time
+### 14 Colour Change Over Time
 + Smudge Tool
 + Workflow thoughts
 + Using Opacity
 + Preventing out of memory errors
 
-### 15_AS_GMP Making An Animated Sunset
+### 15 Making An Animated Sunset
 + Creating An Animated Sunset
 
-### 16_AS_GMP What Is A Sprite Sheet
+### 16 What Is A Sprite Sheet
 #### What Is A Sprite?
 + Sprite: an image that’s integrated into a larger scene
 + Sprite sheet: many of sprites combined in one image
@@ -115,7 +115,7 @@ Recommended Example:  LayerName (100ms)(replace)
 + Consider packing sprites into POT cells or with extra padding
 + For sanity recommend sticking with POT sprites and sprite sheets, then everything fits in properly!
 
-### 17_AS_GMP Creating A Basic Sprite Sheet
+### 17 Creating A Basic Sprite Sheet
 + Make your first sprite sheet
 + Share it with us!
 
@@ -145,4 +145,4 @@ Recommended Example:  LayerName (100ms)(replace)
 + Avoid resaving a JPG, each time you do that you will lose more information
 + Converting JPG to PNG is great if you need to edit
 + If you are having an issue with PNGs
-+ sIf the target destination needs it in another format
++ If the target destination needs it in another format
