@@ -118,3 +118,31 @@ Recommended Example:  LayerName (100ms)(replace)
 ### 17_AS_GMP Creating A Basic Sprite Sheet
 + Make your first sprite sheet
 + Share it with us!
+
+### 18 Too Many File Types
+
+#### What Is Your Output?
++ Think of your output first, that filters back to everything else.
++ Where is your image ending up?
++ In Game?
++ On the Web?
++ In Print- Box Art and Manuals?
+
+#### Types Of Images
++ RAW- Uncompressed eg data straight from a camera sensor.
++ Uncompressed (lossless): e.g. BMP, TIFF, TGA...
++ Compressed
++ Lossy: e.g. JPG
++ Lossless: e.g. PNG, GIF*
++ GIF is an 8bit indexed (per frame), has transparency (either ON/OFF)
+
+#### Program Specific Files
++ XCF - Gimps own format, Game Engines and most other programs do NOT understand this file type
++ PSD - Photoshop document
+
+#### When To Convert Image Types
++ Creating all of your images as PNGs will make your project consistent and save space
++ Avoid resaving a JPG, each time you do that you will lose more information
++ Converting JPG to PNG is great if you need to edit
++ If you are having an issue with PNGs
++ sIf the target destination needs it in another format
