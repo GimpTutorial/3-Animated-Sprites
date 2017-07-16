@@ -27,7 +27,6 @@ Here are the lectures of the course for this section...
 + Yes can be changed later and in game
 + Higher FPS means inserting frames, lowers means cutting them to keep the same animation.
 
-
 ### 5 Layer Animation Parameters
 #### Different Layer Options
 
@@ -146,3 +145,10 @@ Recommended Example:  LayerName (100ms)(replace)
 + Converting JPG to PNG is great if you need to edit
 + If you are having an issue with PNGs
 + If the target destination needs it in another format
+
+### 19 Implementing A Sprite Sheet In Unity
++ Quick test that our sprite sheet works in a Game Engine
+####OPTIONAL
++ This lecture is all about testing straight away.
++ If you don’t have unity, this lecture will show you that the sprite sheet we have made works as we expect it to.
++ If you do have unity feel free to follow along
