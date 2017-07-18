@@ -146,9 +146,13 @@ Recommended Example:  LayerName (100ms)(replace)
 + If you are having an issue with PNGs
 + If the target destination needs it in another format
 
-### 19 Implementing A Sprite Sheet In Unity
-+ Quick test that our sprite sheet works in a Game Engine
-####OPTIONAL
-+ This lecture is all about testing straight away.
-+ If you don’t have unity, this lecture will show you that the sprite sheet we have made works as we expect it to.
-+ If you do have unity feel free to follow along
+### 19a Checking Your Sprite Sheet Works
+#### Testing Our Sprite Sheet
++ This lecture is all about testing your work straight away.
++ We’ll search for a tool
++ Use it to test that our sprite sheet behaves as expected.
+
+###  20 Manually Installing GIMP Add Ons
++ How and where to install script and python files
++ Mac installation at 3 mins
++ Challenge at 5 mins
