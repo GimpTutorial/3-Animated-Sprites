@@ -152,7 +152,11 @@ Recommended Example:  LayerName (100ms)(replace)
 + We’ll search for a tool
 + Use it to test that our sprite sheet behaves as expected.
 
-###  20 Manually Installing GIMP Add Ons
+### 20 Manually Installing GIMP Add Ons
 + How and where to install script and python files
 + Mac installation at 3 mins
 + Challenge at 5 mins
+
+### 21 Add On: Fuse Layers
++ How to use the fuse layer filter we just added
++ The caveats and things to watch out for when using it.
