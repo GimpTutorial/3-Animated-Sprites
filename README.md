@@ -176,3 +176,6 @@ Recommended Example:  LayerName (100ms)(replace)
 + Guide and Influence the end result
 + Just following along or without reference material will lead to frustration and a lot of wasted time.
 + Be mindful of licences, especially if you use the source material directly.
+
+###  24 Easy Repeating Elements
++ How to use graphical elements to repeat work
