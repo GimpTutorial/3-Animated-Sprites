@@ -179,3 +179,7 @@ Recommended Example:  LayerName (100ms)(replace)
 
 ###  24 Easy Repeating Elements
 + How to use graphical elements to repeat work
+
+### 25 Building a Modular Wall
++ Fleshing out the wall
++ Creating a variation using the wall as a base
