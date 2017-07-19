@@ -148,9 +148,9 @@ Recommended Example:  LayerName (100ms)(replace)
 
 ### 19a Checking Your Sprite Sheet Works
 #### Testing Our Sprite Sheet
-+ This lecture is all about testing your work straight away.
++ This lecture is all about testing your work straight away
 + We’ll search for a tool
-+ Use it to test that our sprite sheet behaves as expected.
++ Use it to test that our sprite sheet behaves as expected
 
 ### 20 Manually Installing GIMP Add Ons
 + How and where to install script and python files
@@ -161,6 +161,18 @@ Recommended Example:  LayerName (100ms)(replace)
 + How to use the fuse layer filter we just added
 + The caveats and things to watch out for when using it
 
-### 22 Add On Sprite Sheet
+### 22 Add On: Sprite Sheet
 + How to use the sprite sheet filter we have added
 + Really easy to use, but just makes one long strip, which might be problematic
+
+### 23 Reference Material
++ We now getting the need for reference material
++ Drawing from your mind can cause odd looking work
++ Reference material will be both still pictures and video
+
++ Drawn or photos are both OK
++ Videos for natural movement of objects
++ They’re going to define your image and animation
++ Guide and Influence the end result
++ Just following along or without reference material will lead to frustration and a lot of wasted time.
++ Be mindful of licences, especially if you use the source material directly.
