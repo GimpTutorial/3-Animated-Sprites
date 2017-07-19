@@ -159,4 +159,8 @@ Recommended Example:  LayerName (100ms)(replace)
 
 ### 21 Add On: Fuse Layers
 + How to use the fuse layer filter we just added
-+ The caveats and things to watch out for when using it.
++ The caveats and things to watch out for when using it
+
+### 22 Add On Sprite Sheet
++ How to use the sprite sheet filter we have added
++ Really easy to use, but just makes one long strip, which might be problematic
