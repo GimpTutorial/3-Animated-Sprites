@@ -191,3 +191,7 @@ Recommended Example:  LayerName (100ms)(replace)
 ### 27 Nested Layer Groups
 + Essential for managing animation with multiple elements
 + Helps keep elements separated and organised
+
+### 28 Blending Animation
++ A Filter that can help smooth out your animations
++ Unfortunately it has a couple of drawbacks
