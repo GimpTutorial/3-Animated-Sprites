@@ -195,3 +195,9 @@ Recommended Example:  LayerName (100ms)(replace)
 ### 28 Blending Animation
 + A Filter that can help smooth out your animations
 + Unfortunately it has a couple of drawbacks
+
+### 29 End Of Section Challenge
++ Finish making your end animations
++ Produce a final animation for your scene
++ Make it between 2-5 seconds long
++ Keep it simple and straightforward
