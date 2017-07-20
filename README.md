@@ -187,3 +187,7 @@ Recommended Example:  LayerName (100ms)(replace)
 ### 26 Mocking Up A Scene
 + Mocking up our scene to get an idea of the final animation
 + Important to make the scene more interesting
+
+### 27 Nested Layer Groups
++ Essential for managing animation with multiple elements
++ Helps keep elements separated and organised
