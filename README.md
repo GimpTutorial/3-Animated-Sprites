@@ -183,3 +183,7 @@ Recommended Example:  LayerName (100ms)(replace)
 ### 25 Building a Modular Wall
 + Fleshing out the wall
 + Creating a variation using the wall as a base
+
+### 26 Mocking Up A Scene
++ Mocking up our scene to get an idea of the final animation
++ Important to make the scene more interesting
