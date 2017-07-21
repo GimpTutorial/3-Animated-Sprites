@@ -201,3 +201,7 @@ Recommended Example:  LayerName (100ms)(replace)
 + Produce a final animation for your scene
 + Make it between 2-5 seconds long
 + Keep it simple and straightforward
+
+### Section 3 Wrap Up
++ Congratulations
++ Michael and Ben wrap up the section
